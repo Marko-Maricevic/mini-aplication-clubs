@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Real Madrid",
+    "description": "Kraljevski klub",
+    "stadium": "Santiago Bernabeu",
+    "location": "Madrid",
+    "foundation": "1932"
+  },
+  {
+    "name": "Chelsea",
+    "description": "Chelsea F.C. je engleski nogometni klub iz zapadnog Londona",
+    "stadium": "Stamford Bridge",
+    "location": "London",
+    "foundation": "1905"
+  },
+  {
+    "name": "Bayern Munchen",
+    "description": " Munchen njemački je nogometni klub iz bavarskog glavnog grada Munchena",
+    "stadium": "Allianz Arena",
+    "location": "Munchen",
+    "foundation": "1900"
+  },
+  {
+    "name": "Dinamo Zagreb",
+    "description": "Najtrofejniji klub u HNL",
+    "stadium": "Maksimir",
+    "location": "Zagreb",
+    "foundation": "1911"
+  }
+]
